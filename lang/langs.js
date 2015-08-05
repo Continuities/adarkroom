@@ -14,5 +14,6 @@ var langs = {
 	'tr':'türkçe',
 	'uk':'українська',
 	'vi':'tiếng việt',
-	'zh_cn':'简体中文'
+	'zh_cn':'简体中文',
+	'so':'so'
 };
